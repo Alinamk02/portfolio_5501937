@@ -1,5 +1,8 @@
 # Projektname
 
+Name: Alina Maleki 
+E-Mail: Alina.maleki@mnd.thm.de
+
 Kurze Beschreibung des Flutter-Projekts hier...
 
 ## Installation
